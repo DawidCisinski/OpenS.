@@ -65,7 +65,7 @@ while True:
 
     elif wybor == "9" or wybor == "o programie":
         dodatek_importowany.czyszczenie_ekranu()
-        print("Nazwa: Uniwersalny Menażer OpenS.")
+        print("Nazwa: Uniwersalny Menedżer OpenS.")
         print("Autor: Dawid Cisiński")
         print("Wersja: 1.0 (owoce)")
         print(dodatek_importowany.zaladuj_dodatek(True))
